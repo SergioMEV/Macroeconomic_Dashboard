@@ -1,0 +1,181 @@
+"","id","name","POP_Ranking","POP_Value","GDP_Ranking","GDP_Value","Region","Income_Group","top10per.x","top1per","bot50per","mid40per"
+"1","AFG","Afghanistan",37,38928,112,19807,"South Asia","Low income",0.4146,0.1525,0.1776,0.4078
+"2","AGO","Angola",44,32866,75,62307,"Sub-Saharan Africa","Lower middle income",0.5801,0.2598,0.0904,0.3295
+"3","ALB","Albania",138,2838,125,14800,"Europe & Central Asia","Upper middle income",0.3411,0.09,0.1886,0.4703
+"4","ARE","United Arab Emirates",92,9890,27,421142,"Middle East & North Africa","High income",0.4894,0.1575,0.1274,0.3831
+"5","ARG","Argentina",32,45377,30,383067,"Latin America & Caribbean","Upper middle income",0.4278,0.1751,0.1623,0.4099
+"6","ARM","Armenia",135,2963,133,12645,"Europe & Central Asia","Upper middle income",0.4062,0.1539,0.1854,0.4084
+"7","ATA","Antarctica",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","ATF","French Southern and Antarctic Lands",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","AUS","Australia",55,25687,13,1330901,"East Asia & Pacific","High income",0.336,0.1285,0.1616,0.5024
+"10","AUT","Austria",98,8917,26,428965,"Europe & Central Asia","High income",0.3388,0.1012,0.2202,0.441
+"11","AZE","Azerbaijan",90,10110,90,42607,"Europe & Central Asia","Upper middle income",0.3907,0.1431,0.2029,0.4065
+"12","BDI","Burundi",77,11891,168,3258,"Sub-Saharan Africa","Low income",0.4839,0.1474,0.1402,0.376
+"13","BEL","Belgium",80,11556,23,515332,"Europe & Central Asia","High income",0.3289,0.0863,0.204,0.4671
+"14","BEN","Benin",76,12123,122,15652,"Sub-Saharan Africa","Lower middle income",0.5475,0.1751,0.1142,0.3383
+"15","BFA","Burkina Faso",58,20903,117,17369,"Sub-Saharan Africa","Low income",0.4726,0.1456,0.1504,0.3771
+"16","BGD","Bangladesh",8,164689,38,324239,"South Asia","Lower middle income",0.4285,0.1633,0.1706,0.4009
+"17","BGR","Bulgaria",105,6927,73,69105,"Europe & Central Asia","Upper middle income",0.4349,0.1824,0.165,0.4002
+"18","BHS","The Bahamas",174,393,139,11250,"Latin America & Caribbean","High income",NA,0.1953,0.1262,0.3876
+"19","BIH","Bosnia and Herzegovina",132,3281,113,19788,"Europe & Central Asia","Upper middle income",0.3418,0.0896,0.1823,0.4759
+"20","BLR","Belarus",95,9399,78,60258,"Europe & Central Asia","Upper middle income",0.3339,0.0986,0.2251,0.4411
+"21","BLZ","Belize",173,398,180,1764,"Latin America & Caribbean","Upper middle income",0.4861,0.1953,0.1262,0.3876
+"22","BMU","Bermuda",199,64,152,7484,"North America","High income",NA,NA,NA,NA
+"23","BOL","Bolivia",79,11673,95,36689,"Latin America & Caribbean","Lower middle income",0.4861,0.1953,0.1262,0.3876
+"24","BRA","Brazil",6,212559,12,1444733,"Latin America & Caribbean","Upper middle income",0.5856,0.266,0.1007,0.3137
+"25","BRN","Brunei",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","BTN","Bhutan",163,772,175,2409,"South Asia","Lower middle income",0.4259,0.1417,0.1501,0.424
+"27","BWA","Botswana",143,2352,120,15782,"Sub-Saharan Africa","Upper middle income",0.5926,0.2274,0.0812,0.3262
+"28","CAF","Central African Republic",124,4830,176,2303,"Sub-Saharan Africa","Low income",0.6491,0.31,0.0763,0.2746
+"29","CAN","Canada",38,38005,9,1643408,"North America","High income",0.407,0.1479,0.1558,0.4372
+"30","CHE","Switzerland",99,8637,18,747969,"Europe & Central Asia","High income",0.3256,0.1152,0.226,0.4484
+"31","CHL","Chile",62,19116,44,252940,"Latin America & Caribbean","High income",0.5891,0.2647,0.1018,0.3091
+"32","CHN","China",1,1402112,2,14722731,"East Asia & Pacific","Upper middle income",0.4166,0.14,0.1436,0.4398
+"33","CIV","Ivory Coast",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","CMR","Cameroon",52,26546,91,39802,"Sub-Saharan Africa","Lower middle income",0.5205,0.1585,0.1063,0.3732
+"35","COD","Democratic Republic of the Congo",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","COG","Republic of the Congo",116,5518,141,10885,"Sub-Saharan Africa","Lower middle income",0.5593,0.2052,0.0992,0.3416
+"37","COL","Colombia",29,50883,40,271347,"Latin America & Caribbean","Upper middle income",0.5146,0.1885,0.1063,0.3791
+"38","CRI","Costa Rica",120,5094,76,61521,"Latin America & Caribbean","Upper middle income",0.501,0.1929,0.1072,0.3918
+"39","CUB","Cuba",82,11327,63,103131,"Latin America & Caribbean","Upper middle income",0.4008,0.1471,0.1689,0.4303
+"40","-99","Northern Cyprus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","CYP","Cyprus",157,1207,107,23804,"Europe & Central Asia","High income",0.3634,0.1148,0.1915,0.445
+"42","CZE","Czech Republic",86,10699,46,243530,"Europe & Central Asia","High income",0.2854,0.1002,0.255,0.4597
+"43","DEU","Germany",19,83241,4,3806060,"Europe & Central Asia","High income",0.3722,0.1287,0.1892,0.4387
+"44","DJI","Djibouti",159,988,167,3384,"Middle East & North Africa","Lower middle income",0.4955,0.1586,0.1309,0.3736
+"45","DNK","Denmark",113,5831,34,355184,"Europe & Central Asia","High income",0.3364,0.1272,0.2146,0.449
+"46","DOM","Dominican Republic",84,10848,67,78845,"Latin America & Caribbean","Upper middle income",0.4861,0.1953,0.1262,0.3876
+"47","DZA","Algeria",34,43851,57,145164,"Middle East & North Africa","Lower middle income",0.3808,0.0991,0.1902,0.429
+"48","ECU","Ecuador",65,17643,65,98808,"Latin America & Caribbean","Upper middle income",0.3732,0.1166,0.1614,0.4654
+"49","EGY","Egypt",14,102334,31,363069,"Middle East & North Africa","Lower middle income",0.497,0.1984,0.1478,0.3553
+"50","ERI","Eritrea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","ESP","Spain",30,47352,14,1281199,"Europe & Central Asia","High income",0.348,0.1266,0.2099,0.4421
+"52","EST","Estonia",154,1331,100,31030,"Europe & Central Asia","High income",0.3462,0.1165,0.1827,0.471
+"53","ETH","Ethiopia",12,114964,60,107645,"Sub-Saharan Africa","Low income",0.4547,0.1382,0.1584,0.3869
+"54","FIN","Finland",115,5531,41,271234,"Europe & Central Asia","High income",0.334,0.1028,0.2171,0.4488
+"55","FJI","Fiji",160,896,160,4376,"East Asia & Pacific","Upper middle income",NA,NA,NA,NA
+"56","FLK","Falkland Islands",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","FRA","France",21,67392,7,2603004,"Europe & Central Asia","High income",0.3225,0.0986,0.2271,0.4504
+"58","GAB","Gabon",144,2226,123,15593,"Sub-Saharan Africa","Upper middle income",0.4332,0.1102,0.1442,0.4227
+"59","GBR","United Kingdom",22,67215,5,2707744,"Europe & Central Asia","High income",0.3564,0.126,0.2036,0.44
+"60","GEO","Georgia",130,3714,119,15892,"Europe & Central Asia","Upper middle income",0.4903,0.2111,0.139,0.3707
+"61","GHA","Ghana",47,31073,72,72354,"Sub-Saharan Africa","Lower middle income",0.4891,0.1523,0.1221,0.3889
+"62","GIN","Guinea",74,13133,121,15681,"Sub-Saharan Africa","Low income",0.4269,0.1253,0.1619,0.4112
+"63","GMB","Gambia",142,2417,177,1902,"Sub-Saharan Africa","Low income",0.4587,0.1361,0.1502,0.3911
+"64","GNB","Guinea Bissau",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","GNQ","Equatorial Guinea",152,1403,145,10022,"Sub-Saharan Africa","Upper middle income",0.5164,0.1759,0.1145,0.3692
+"66","GRC","Greece",85,10716,51,189410,"Europe & Central Asia","High income",0.3253,0.1074,0.2104,0.4642
+"67","GRL","Greenland",202,56,173,3052,"Europe & Central Asia","High income",NA,NA,NA,NA
+"68","GTM","Guatemala",68,16858,68,77605,"Latin America & Caribbean","Upper middle income",0.4861,0.1953,0.1262,0.3876
+"69","GUF","French Guiana",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","GUY","Guyana",162,787,157,5471,"Latin America & Caribbean","Upper middle income",0.4861,0.1953,0.1262,0.3876
+"71","HND","Honduras",91,9905,106,23828,"Latin America & Caribbean","Lower middle income",0.4861,0.1953,0.1262,0.3876
+"72","HRV","Croatia",129,4047,80,55967,"Europe & Central Asia","High income",0.3536,0.102,0.1843,0.4621
+"73","HTI","Haiti",81,11403,131,13418,"Latin America & Caribbean","Low income",0.4861,0.1953,0.1262,0.3876
+"74","HUN","Hungary",93,9750,55,155013,"Europe & Central Asia","High income",0.3395,0.1239,0.2197,0.4408
+"75","IDN","Indonesia",4,273524,16,1058424,"East Asia & Pacific","Upper middle income",0.48,0.1828,0.1239,0.3961
+"76","IND","India",2,1380004,6,2622984,"South Asia","Lower middle income",0.5713,0.2173,0.1313,0.2974
+"77","IRL","Ireland",123,4995,28,418622,"Europe & Central Asia","High income",0.3516,0.1179,0.2046,0.4438
+"78","IRN","Iran",18,83993,50,191718,"Middle East & North Africa","Upper middle income",0.5266,0.1818,0.1328,0.3406
+"79","IRQ","Iraq",36,40223,53,167224,"Middle East & North Africa","Upper middle income",0.5199,0.2063,0.1277,0.3523
+"80","ISL","Iceland",175,366,110,21715,"Europe & Central Asia","High income",0.2908,0.0878,0.2498,0.4593
+"81","ISR","Israel",96,9217,29,401954,"Middle East & North Africa","High income",0.4895,0.1648,0.1311,0.3794
+"82","ITA","Italy",24,59554,8,1886445,"Europe & Central Asia","High income",0.3255,0.0891,0.2055,0.469
+"83","JAM","Jamaica",136,2961,128,13812,"Latin America & Caribbean","Upper middle income",0.4861,0.1953,0.1262,0.3876
+"84","JOR","Jordan",89,10203,89,43698,"Middle East & North Africa","Upper middle income",0.4939,0.1744,0.1425,0.3636
+"85","JPN","Japan",11,125836,3,5064873,"East Asia & Pacific","High income",0.4489,0.1311,0.1678,0.3833
+"86","KAZ","Kazakhstan",63,18754,52,169835,"Europe & Central Asia","Upper middle income",0.4253,0.154,0.1636,0.411
+"87","KEN","Kenya",27,53771,64,98843,"Sub-Saharan Africa","Lower middle income",0.4872,0.1519,0.1301,0.3827
+"88","KGZ","Kyrgyzstan",110,6592,148,7736,"Europe & Central Asia","Lower middle income",0.4415,0.1843,0.1682,0.3903
+"89","KHM","Cambodia",70,16719,103,25291,"East Asia & Pacific","Lower middle income",0.465,0.1856,0.1386,0.3964
+"90","KOR","South Korea",28,51781,10,1630525,"East Asia & Pacific","High income",0.4645,0.1471,0.1604,0.3751
+"91","CS-KM","Kosovo",150,1775,149,7611,"Europe & Central Asia","Upper middle income",0.3314,0.0873,0.1835,0.4851
+"92","KWT","Kuwait",128,4271,58,136197,"Middle East & North Africa","High income",0.5386,0.1932,0.1171,0.3442
+"93","LAO","Laos",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","LBN","Lebanon",108,6825,99,33383,"Middle East & North Africa","Upper middle income",0.5531,0.2097,0.1038,0.3431
+"95","LBR","Liberia",122,5058,174,2950,"Sub-Saharan Africa","Low income",0.4324,0.122,0.1543,0.4133
+"96","LBY","Libya",107,6871,102,25418,"Middle East & North Africa","Upper middle income",0.4421,0.1356,0.1633,0.3946
+"97","LKA","Sri Lanka",57,21919,66,80707,"South Asia","Lower middle income",0.4943,0.2064,0.1411,0.3647
+"98","LSO","Lesotho",145,2142,178,1845,"Sub-Saharan Africa","Lower middle income",0.4951,0.1446,0.1128,0.3921
+"99","LTU","Lithuania",139,2795,81,55887,"Europe & Central Asia","High income",0.3652,0.109,0.1807,0.4541
+"100","LUX","Luxembourg",166,632,71,73264,"Europe & Central Asia","High income",0.3353,0.1037,0.2019,0.4628
+"101","LVA","Latvia",149,1902,98,33505,"Europe & Central Asia","High income",0.3444,0.0907,0.1796,0.476
+"102","MAR","Morocco",40,36911,59,112871,"Middle East & North Africa","Lower middle income",0.4943,0.1514,0.1356,0.3701
+"103","MDA","Moldova",140,2618,138,11914,"Europe & Central Asia","Lower middle income",0.3445,0.0985,0.1817,0.4738
+"104","MDG","Madagascar",51,27691,129,13721,"Sub-Saharan Africa","Low income",0.5076,0.1517,0.1248,0.3676
+"105","MEX","Mexico",10,128933,15,1076163,"Latin America & Caribbean","Upper middle income",0.5735,0.2614,0.0917,0.3348
+"106","MKD","Macedonia",147,2083,135,12267,"Europe & Central Asia","Upper middle income",0.2936,NA,NA,NA
+"107","MLI","Mali",59,20251,116,17394,"Sub-Saharan Africa","Low income",0.4126,0.0969,0.1634,0.424
+"108","MLT","Malta",171,525,126,14647,"Middle East & North Africa","High income",0.3276,0.0939,0.2042,0.4681
+"109","MMR","Myanmar",26,54410,70,76186,"East Asia & Pacific","Lower middle income",0.4407,0.1709,0.1593,0.4001
+"110","MNE","Montenegro",167,622,159,4779,"Europe & Central Asia","Upper middle income",0.3602,0.0977,0.1644,0.4755
+"111","MNG","Mongolia",133,3278,132,13137,"East Asia & Pacific","Lower middle income",0.4417,0.1654,0.1488,0.4095
+"112","MOZ","Mozambique",46,31255,127,14021,"Sub-Saharan Africa","Low income",0.6463,0.3111,0.083,0.2707
+"113","MRT","Mauritania",126,4650,147,7779,"Sub-Saharan Africa","Lower middle income",0.4048,0.1075,0.1678,0.4273
+"114","MWI","Malawi",61,19130,137,11962,"Sub-Saharan Africa","Low income",0.5645,0.2804,0.1179,0.3176
+"115","MYS","Malaysia",45,32366,37,336664,"East Asia & Pacific","Upper middle income",0.4027,0.1487,0.173,0.4244
+"116","NAM","Namibia",141,2541,142,10700,"Sub-Saharan Africa","Upper middle income",0.642,0.2157,0.0655,0.2925
+"117","NCL","New Caledonia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118","NER","Niger",56,24207,130,13678,"Sub-Saharan Africa","Low income",0.433,0.116,0.1572,0.4099
+"119","NGA","Nigeria",7,206140,25,432294,"Sub-Saharan Africa","Lower middle income",0.4272,0.1159,0.155,0.4178
+"120","NIC","Nicaragua",109,6625,134,12621,"Latin America & Caribbean","Lower middle income",0.4861,0.1953,0.1262,0.3876
+"121","NLD","Netherlands",67,17441,17,912242,"Europe & Central Asia","High income",0.2941,0.0691,0.2251,0.4808
+"122","NOR","Norway",118,5379,32,362009,"Europe & Central Asia","High income",0.3011,0.0933,0.2462,0.4527
+"123","NPL","Nepal",49,29137,97,33657,"South Asia","Lower middle income",0.4192,0.1389,0.1667,0.4141
+"124","NZL","New Zealand",121,5084,48,212482,"East Asia & Pacific","High income",0.3457,0.1187,0.1957,0.4586
+"125","OMN","Oman",119,5107,69,76332,"Middle East & North Africa","High income",0.8268,0.6304,0.0296,0.1436
+"126","PAK","Pakistan",5,220892,43,263687,"South Asia","Lower middle income",0.4326,0.1682,0.1727,0.3947
+"127","PAN","Panama",127,4315,85,52938,"Latin America & Caribbean","High income",0.4861,0.1953,0.1262,0.3876
+"128","PER","Peru",43,32972,49,202014,"Latin America & Caribbean","Upper middle income",0.4994,0.2011,0.1122,0.3884
+"129","PHL","Philippines",13,109581,33,361489,"East Asia & Pacific","Lower middle income",0.4608,0.1688,0.1432,0.396
+"130","PNG","Papua New Guinea",97,8947,108,23592,"East Asia & Pacific","Lower middle income",0.4699,0.1666,0.1285,0.4016
+"131","POL","Poland",39,37951,21,594165,"Europe & Central Asia","High income",0.3764,0.1479,0.1952,0.4285
+"132","PRI","Puerto Rico",134,3194,62,103138,"Latin America & Caribbean","High income",NA,NA,NA,NA
+"133","PRK","North Korea",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134","PRT","Portugal",88,10306,47,231256,"Europe & Central Asia","High income",0.3651,0.1089,0.1955,0.4394
+"135","PRY","Paraguay",104,7133,96,35304,"Latin America & Caribbean","Upper middle income",0.4861,0.1953,0.1262,0.3876
+"136","QAT","Qatar",137,2881,56,146374,"Middle East & North Africa","High income",0.5633,0.2345,0.0931,0.3435
+"137","ROU","Romania",60,19286,45,248716,"Europe & Central Asia","High income",0.4146,0.1445,0.1514,0.434
+"138","RUS","Russia",9,144104,11,1483498,"Europe & Central Asia","Upper middle income",0.4643,0.2145,0.1698,0.3659
+"139","RWA","Rwanda",75,12952,143,10334,"Sub-Saharan Africa","Low income",0.5394,0.1989,0.1184,0.3422
+"140","ESH","Western Sahara",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"141","SAU","Saudi Arabia",41,34814,20,700118,"Middle East & North Africa","High income",0.5413,0.2087,0.1098,0.3489
+"142","SDN","Sudan",35,43849,101,26111,"Sub-Saharan Africa","Low income",0.4504,0.1536,0.1577,0.3919
+"143","SSD","South Sudan",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144","SEN","Senegal",69,16744,104,24911,"Sub-Saharan Africa","Lower middle income",0.4771,0.1318,0.1338,0.3891
+"145","SLB","Solomon Islands",164,687,184,1551,"East Asia & Pacific","Lower middle income",NA,NA,NA,NA
+"146","SLE","Sierra Leone",101,7977,165,3865,"Sub-Saharan Africa","Low income",0.47,0.1502,0.1499,0.3801
+"147","SLV","El Salvador",111,6486,105,24639,"Latin America & Caribbean","Lower middle income",0.4107,0.1349,0.1168,0.4725
+"148","-99","Somaliland",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"149","SOM","Somalia",72,15893,158,4918,"Sub-Saharan Africa","Low income",0.4406,0.1244,0.1494,0.41
+"150","SRB","Republic of Serbia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151","SUR","Suriname",168,587,166,3808,"Latin America & Caribbean","Upper middle income",0.4861,0.1953,0.1262,0.3876
+"152","SVK","Slovakia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"153","SVN","Slovenia",146,2100,86,52880,"Europe & Central Asia","High income",0.2952,0.0796,0.2308,0.4739
+"154","SWE","Sweden",87,10353,22,537610,"Europe & Central Asia","High income",0.2961,0.0954,0.2426,0.4613
+"155","SWZ","Swaziland",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"156","SYR","Syria",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"157","TCD","Chad",71,16426,144,10093,"Sub-Saharan Africa","Low income",0.493,0.1571,0.123,0.3841
+"158","TGO","Togo",100,8279,150,7575,"Sub-Saharan Africa","Low income",0.4798,0.1385,0.1222,0.3981
+"159","THA","Thailand",20,69800,24,501795,"East Asia & Pacific","Upper middle income",0.4879,0.1776,0.1389,0.3732
+"160","TJK","Tajikistan",94,9538,146,8194,"Europe & Central Asia","Low income",0.4321,0.149,0.1543,0.4136
+"161","TKM","Turkmenistan",112,6031,88,45231,"Europe & Central Asia","Upper middle income",0.4988,0.1987,0.1201,0.3812
+"162","TLS","East Timor",155,1318,179,1821,"East Asia & Pacific","Lower middle income",0.4232,0.1566,0.1675,0.4093
+"163","TTO","Trinidad and Tobago",153,1399,111,21530,"Latin America & Caribbean","High income",0.4861,0.1953,0.1262,0.3876
+"164","TUN","Tunisia",78,11819,92,39236,"Middle East & North Africa","Lower middle income",0.4137,0.1091,0.1661,0.4202
+"165","TUR","Turkey",17,84339,19,720101,"Europe & Central Asia","Upper middle income",0.5442,0.1882,0.1195,0.3363
+"166","TWN","Taiwan",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167","TZA","United Republic of Tanzania",23,59734,74,62410,"Sub-Saharan Africa","Lower middle income",0.5137,NA,0.1295,NA
+"168","UGA","Uganda",31,45741,94,37372,"Sub-Saharan Africa","Low income",0.5207,0.1705,0.1213,0.358
+"169","UKR","Ukraine",33,44135,54,155582,"Europe & Central Asia","Lower middle income",0.3349,0.0948,0.2257,0.4395
+"170","URY","Uruguay",131,3474,83,53629,"Latin America & Caribbean","High income",0.4013,0.1495,0.183,0.4157
+"171","USA","United States of America",3,329484,1,20936600,"North America","High income",0.4546,0.1876,0.1331,0.4124
+"172","UZB","Uzbekistan",42,34232,79,57707,"Europe & Central Asia","Lower middle income",0.4626,0.1692,0.1458,0.3916
+"173","VEN","Venezuela",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"174","VNM","Vietnam",15,97339,42,271158,"East Asia & Pacific","Lower middle income",0.4488,0.1616,0.1458,0.4054
+"175","VUT","Vanuatu",176,307,194,855,"East Asia & Pacific","Lower middle income",NA,NA,NA,NA
+"176","PSE","West Bank",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"177","YEM","Yemen",48,29826,109,23486,"Middle East & North Africa","Low income",0.593,0.2463,0.0928,0.3143
+"178","ZAF","South Africa",25,59309,39,301924,"Sub-Saharan Africa","Upper middle income",0.6541,0.1931,0.058,0.2879
+"179","ZMB","Zambia",64,18384,114,19320,"Sub-Saharan Africa","Lower middle income",0.6174,0.2317,0.0695,0.3132
+"180","ZWE","Zimbabwe",73,14863,118,16769,"Sub-Saharan Africa","Lower middle income",0.5895,0.2108,0.0923,0.3181
